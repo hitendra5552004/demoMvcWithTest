@@ -23,8 +23,8 @@ namespace MVCWithTest.Controllers
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
-            ViewBag.Msg = "Your test";
-
+            ViewBag.Msg = "Your test3344";
+            ViewBag.Msg = "Your test34";
             return View();
         }
     }
